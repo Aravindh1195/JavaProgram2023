@@ -16,7 +16,7 @@ public class Program02 {
 		
 		System.out.println("Entrer double value of a:-");
 		double c=x.nextDouble();
-		x.close();45
+		x.close();
 		
 		// int () int--->int
 		// int () double/float--->double/float
